@@ -6,31 +6,20 @@ Course materials for DSCC-202-402
 ## Fork the class repository into your account
 Could you unlock the dsc402 repository into your new account?  Note: this will create a copy of the course repo for you to add and work on within your
 own account.<br>
-Go to https://github.com/lpalum/dscc202-402-spring2024 and hit the fork button while you are logged into your GitHub account: ![fork image](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+Go to https://github.com/lpalum/dscc202-402-spring2024 and hit the fork button while you are logged into your GitHub account.
 
 ## Clone your copy of the dsc402 repository to get the class materials on your machine
-<code>git clone https://github.com/[your account name]/dscc202-402-spring2023.git</code><br>
-note: you may want to clone this repo into a directory on your machine that you organize for code e.g. **/home/<your username>/code/github**
+git clone https://github.com/<your account name>/dscc202-402-spring2024.git<br>
+note: you may want to clone this repo into a directory on your machine that you organize for code e.g. /home/<your username>/code/github
 
 Note: **/home/[your account name] should be /Users/[your account name] to work with the paths that are defined in Mac OS X.**
 
 ## Sign up for the Community Edition of Databricks and import archives
-[Databrick Community Edition](https://www.databricks.com/try-databricks#account)
-<table>
-<tr>
-<td><img src="https://data-science-at-scale.s3.amazonaws.com/images/dbce1.png"></td>
-<td><img src="https://data-science-at-scale.s3.amazonaws.com/images/dbce2.png"></td>
-<td><img src="https://data-science-at-scale.s3.amazonaws.com/images/dbce3.png"></td>
-</tr>
-<table>
-<h2>NOTES:</h2>
-<ul>
-<li>THE SELECTION OF THE DATABRICKS COMMUNITY EDITION LINK AT THE BOTTOM OF THE FORM... DO NOT SIGN UP FOR THE FULL VERSION!
-<li>You will also receive an invite later in the course to the class-shared Databricks Workspace, where you will be doing your final project.
-</ul>
+[Databrick Community Edition](https://community.cloud.databricks.com/login.html)
+
 
 Here is some helpful information about importing archives into the Databricks Environment: 
-https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook
+[Getting Started](https://docs.databricks.com/en/workspace/index.html)
 
 Import the DBC archive into your account from the Learning Spark v2 GitHub repository. (this is the code that goes along with the test book)
 [DBC Archive](https://github.com/databricks/LearningSparkV2/blob/master/notebooks/LearningSparkv2.dbc)
