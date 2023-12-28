@@ -9,8 +9,8 @@ own account.<br>
 Go to https://github.com/lpalum/dscc202-402-spring2024 and hit the fork button while you are logged into your GitHub account.
 
 ## Clone your copy of the dsc402 repository to get the class materials on your machine
-git clone https://github.com/<your account name>/dscc202-402-spring2024.git<br>
-note: you may want to clone this repo into a directory on your machine that you organize for code e.g. /home/<your username>/code/github
+git clone https://github.com/your-account-name/dscc202-402-spring2024.git
+note: you may want to clone this repo into a directory on your machine that you organize for code e.g. /home/your-account-name/code/github
 
 Note: **/home/[your account name] should be /Users/[your account name] to work with the paths that are defined in Mac OS X.**
 
