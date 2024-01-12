@@ -14,14 +14,14 @@ note: you may want to clone this repo into a directory on your machine that you 
 
 Note: **/home/[your account name] should be /Users/[your account name] to work with the paths that are defined in Mac OS X.**
 
-## Sign up for the Community Edition of Databricks and import archives
-[Databrick Community Edition](https://community.cloud.databricks.com/login.html)
+## Access Databricks Workspace through the course home page on Blackboard LMS
+[Login to Blackboard to access Databricks Workspace](https://learn.rochester.edu/)
 
 
 Here is some helpful information about importing archives into the Databricks Environment: 
 [Getting Started](https://docs.databricks.com/en/workspace/index.html)
 
-Import the DBC archive into your account from the Learning Spark v2 GitHub repository. (this is the code that goes along with the test book)
+Import the DBC archive from the Learning Spark v2 GitHub repository into your account. (this is the code that goes along with the test book)
 [DBC Archive](https://github.com/databricks/LearningSparkV2/blob/master/notebooks/LearningSparkv2.dbc)
 
 Import the DBC archives for the class after unzipping dscc202-402-dbc.zip on your machine.
